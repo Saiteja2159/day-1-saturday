@@ -60,3 +60,24 @@ int main()
 		scanf("%d",&c);
     }
 }
+
+
+
+              TEST CASE 1
+	      enter N : 3
+              3th prime number  : 5
+              3 prime numbers after 3th prime number = 71113
+	      
+	      
+	      
+              TEST CASE 2
+	      enter N : P
+              the given input is invalid
+	      
+	      
+	      TEST CASE 3
+	      enter N : 11
+              11th prime number  : 31
+              11 prime numbers after 11th prime number = 3741434753596167717379
+	      
+	      
