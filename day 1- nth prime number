@@ -81,3 +81,13 @@ int main()
               11 prime numbers after 11th prime number = 3741434753596167717379
 	      
 	      
+             enter N : 4
+            4th prime number  : 7
+            4 prime numbers after 4th prime number = 11131719
+	    
+	    
+	   enter N : 10
+           10th prime number  : 29
+           10 prime numbers after 10th prime number = 31374143475359616771              
+
+
