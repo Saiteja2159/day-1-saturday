@@ -16,3 +16,14 @@ int main()
  printf("No, username is invalid\n" );
 }
 }
+
+
+
+Enter a username: lucy@3935
+ReEnter the user name: lucy@3935
+Yes ,user name is valid
+
+
+Enter a username: varshith@13
+ReEnter the user name: varsith@13
+No, username is invalid
