@@ -30,3 +30,61 @@ int main()
     }
     return 0;
 }
+
+
+How many number you want to enter: 3
+
+Enter a list of numbers to see all combinations:
+2 3 4
+3 2 4
+3 4 2
+4 3 2
+4 2 3
+2 4 3
+2 3 4
+
+
+How many number you want to enter: 2
+
+Enter a list of numbers to see all combinations:
+1 6
+6 1
+1 6
+
+
+How many number you want to enter: 4
+
+Enter a list of numbers to see all combinations:
+2 3 6 7
+3 2 6 7
+3 6 2 7
+3 6 7 2
+6 3 7 2
+6 7 3 2
+6 7 2 3
+7 6 2 3
+7 2 6 3
+7 2 3 6
+2 7 3 6
+2 3 7 6
+2 3 6 7
+
+
+How many number you want to enter: 3
+
+Enter a list of numbers to see all combinations:
+6 8 9
+8 6 9
+8 9 6
+9 8 6
+9 6 8
+6 9 8
+6 8 9
+
+
+How many number you want to enter: 2
+
+Enter a list of numbers to see all combinations:
+6 7
+7 6
+6 7
