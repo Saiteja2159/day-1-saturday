@@ -37,3 +37,42 @@ int main()
         }
     }
 }
+
+
+
+enter the salary= 3000000
+1 for grade a
+2 for grade b
+enter the grade=1
+the bonus amount of the employee is=300000
+the total amount of the employee is=3300000
+
+
+enter the salary= 4500
+1 for grade a
+2 for grade b
+enter the grade=2
+the bonus amount of the employee is=990
+the total amount of the employee is=5490
+
+
+enter the salary= 20000
+1 for grade a
+2 for grade b
+enter the grade=1
+the bonus amount of the employee is=2000
+the total amount of the employee is=22000
+
+enter the salary= 340000
+1 for grade a
+2 for grade b
+enter the grade=2
+the bonus amount of the employee is 68000
+the total amount of the employee is=0
+
+enter the salary= 15000
+1 for grade a
+2 for grade b
+enter the grade=1
+the bonus amount of the employee is=1500
+the total amount of the employee is=16500
