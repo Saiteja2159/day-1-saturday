@@ -10,3 +10,14 @@ for (i=1;i<=x;i++)
 printf("%d * %d = %d\n",i,y,i*y);
 getch();
 }
+
+
+enter the number
+2
+6
+1 * 2 = 2
+2 * 2 = 4
+3 * 2 = 6
+4 * 2 = 8
+5 * 2 = 10
+6 * 2 = 12
