@@ -36,3 +36,57 @@ int main()
 }
 
 
+
+1 for power
+2 for add
+3 for sub
+4 for mul
+5 for div
+enter the choice:2
+enter the number= 4
+enter the number= 5
+the sum of the number is=9
+
+
+
+1 for power
+2 for add
+3 for sub
+4 for mul
+5 for div
+enter the choice:3
+enter the number= 4
+enter the number= 5
+the sum of the number is=-1
+
+
+1 for power
+2 for add
+3 for sub
+4 for mul
+5 for div
+enter the choice:5
+enter the number= 4
+enter the number= 8
+the sum of the number is=2
+
+1 for power
+2 for add
+3 for sub
+4 for mul
+5 for div
+enter the choice:2
+enter the number= 90
+enter the number= 20
+the sum of the number is=110
+
+
+1 for power
+2 for add
+3 for sub
+4 for mul
+5 for div
+enter the choice:4
+enter the number= 4
+enter the number= 5
+the sum of the number is=20
